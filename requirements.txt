@@ -4,6 +4,7 @@ jupyterlab~=4.0.9
 notebook~=7.0.6
 
 
+
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.2.0
 
@@ -20,6 +21,8 @@ jupyterlite-xeus-sqlite==0.2.1
 jupyterlite-p5-kernel==0.1.0
 # Lua kernel (optional)
 jupyterlite-xeus-lua==0.3.1
+# C++ Kernal
+jupyterlite-xeus-cling
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
